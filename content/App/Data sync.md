@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Data sync
 draft: false
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Skill Inference
 draft: false
 tags:
 ---
